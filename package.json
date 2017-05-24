@@ -1,7 +1,7 @@
 {
   "name": "bike-index",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a brief description of what the software does. ### Setup/Installation Requirements * list item 1 * list item 2 * list item 3 ### Known Bugs List known bugs or issues here ### Technologies Used * Tech 1 * Tech 2 * Tech 3 ### By Authors ### Support and contact details _contact info here_ ### License _MIT_ Copyright (c) _year_ **Author or Organization**",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,5 +23,13 @@
     "jshint": "^2.9.4",
     "uglify": "^0.1.5",
     "vinyl-source-stream": "^1.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenWilliams7/news_choose.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BenWilliams7/news_choose/issues"
+  },
+  "homepage": "https://github.com/BenWilliams7/news_choose#readme"
 }
